@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 2deb2e16f34134f4480886eea24d62b6
+  m_SerializeEntries:
+  - m_GUID: 99224cca4fed48c409432e466ba7785f
+    m_Address: VFX/Damepopup.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3ea4629f192fa9b4aa952254e7e54365
+    m_Address: VFX/BulletDoc.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 60eef78a00ff730499e41214ca5af65d
+    m_Address: VFX/Bullet.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: af8c5f0c2fb5cb14f864c19cecf43558
+    m_Address: VFX/Healbar.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9f9e3e46720b7d64da1eedc1ddc407fc
+    m_Address: VFX/Setting_Detail.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b9c6be099d29a90489fe29c49dc3fa1a
+    m_Address: VFX/AiEnemyHoa.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2e52a6690a3ee5641b75ef22a68f8269
+    m_Address: Assets/Prefabs/FireSkill.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d76a91c9df9b2ad4a9216657ba25bc54
+    m_Address: Assets/Prefabs/Bullet/Xuctu.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d3981c6de6abb9a4d8a490d110daa719
+    m_Address: Assets/Prefabs/AudioManager.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a69f177256701bc448e536ccbcaa54fc
+    m_Address: Assets/Prefabs/Trigger Boss.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7712e68d17e15db44bad72fe14d2e8ca
+    m_Address: Assets/Prefabs/Spikes.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 359f4d416aefb40428570455edff2f5c
+    m_Address: Assets/Prefabs/SpikeBall.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 628f0e813ce80cd45a3772d2a54d936f
+    m_Address: Assets/Prefabs/Player.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 118644f7d8355b44589055997d829366
+    m_Address: Assets/Prefabs/UIGame.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1561cf86723a6be46adfd9bc8d42c351
+    m_Address: Assets/Prefabs/AiEnemyTho.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5677151ac9dfcad41b059a683e2fcfaa
+    m_Address: Assets/Prefabs/FireSkill 1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 3e10aecc7ec31e74c8f1c871222064fa, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: acd9c92df68cd264a88e65ab5ec91aa2, type: 2}
+    - {fileID: 11400000, guid: 2b75a0a23db61bc4a90711d1982ff51b, type: 2}
